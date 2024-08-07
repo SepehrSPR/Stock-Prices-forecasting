@@ -1,6 +1,4 @@
 # Stock-Prices-forecasting
-Here's a clean and detailed README for your GitHub repository:
-
 This repository contains a comprehensive analysis and forecasting of the stock prices. Using various statistical and machine learning techniques, the project aims to decompose the time series data, identify trends and seasonal components, and make accurate forecasts.
 
 ## Table of Contents
@@ -52,14 +50,13 @@ pip install numpy pandas finpy_tse mplfinance scipy matplotlib statsmodels sciki
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/petroul-stock-forecast.git
-   cd petroul-stock-forecast
+   git clone https://github.com/SepehrSPR/Stock-Prices-forecasting
    ```
 
 2. **Run the analysis script**:
    The main script performs the entire analysis and forecasting process. Ensure you have the necessary libraries installed.
    ```bash
-   python main.py
+   python Stock_prices_forescasting.py
    ```
 
 ## Analysis and Forecasting
