@@ -102,5 +102,5 @@ The performance of the models is evaluated using the following metrics:
 The integrated forecasting results are compared with the actual data for the last 20% of the dataset. The error metrics for the combined forecast are also calculated and displayed.
 Feel free to customize any section as needed, especially the repository URL and other project-specific details.
 
-** Additional Note **
+**Additional Note**
 Its obvious that you can use any other data instead of Tehran stockprices and remember that this code is better to use when adf result is non-stationary
